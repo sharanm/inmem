@@ -1,0 +1,5 @@
+Todo which I couldn't complete because of time:
+Desigining interfaces for future extensibility
+Need to add proper Data transfer objects (DTO) and the input layer
+Need to think more about endpoints from REST/Graphql perspective. Currently, each operation has its own endpoint.
+Need to proper error handling when consumer has read all messages.
